@@ -1,0 +1,44 @@
+[2021-02-02 11:27:44] [INFO]: 重新启动adb
+[2021-02-02 11:28:00] [INFO]: 已经获取到的当前项目的版本是:v4.3.0
+[2021-02-02 11:28:00] [INFO]: 已经获取到当前连接的手机的系统版本是:6.0
+[2021-02-02 11:28:00] [INFO]: 等待20S启动AppiumServer
+[2021-02-02 11:28:21] [INFO]: appium-server启动成功！！
+[2021-02-02 11:28:21] [INFO]: 当前执行手机系统版本小于8.0
+[2021-02-02 11:28:21] [INFO]: ****************************************************************************************************
+[2021-02-02 11:28:34] [INFO]: 初始化--><class 'utx.core.Meta'>类
+[2021-02-02 11:28:44] [INFO]: 开始执行_close_msg_alert方法
+[2021-02-02 11:28:44] [INFO]: 开始定位首页推荐弹出框元素,方式->by_id, 值->com.sunrise.scmbhc:id/pop_image_close
+[2021-02-02 11:28:53] [WARNING]: 未发现首页推荐弹出框元素,方法退出, 返回False
+[2021-02-02 11:28:53] [INFO]: ****************************************************************************************************
+[2021-02-02 11:28:53] [INFO]: 开始执行用例-><class 'test_index.TestOnkeyQuery'>.test_00011_index_check_onekeyquery
+[2021-02-02 11:28:53] [INFO]: ****************************************************************************************************
+[2021-02-02 11:28:54] [INFO]: [32mINFO start to test test_index.test_index_check_onekeyquery (11/68)[0m
+[2021-02-02 11:28:54] [INFO]: 开始执行find_element方法
+[2021-02-02 11:28:54] [INFO]: 成功定位元素,by->xpath, value=//*[@resource-id="com.sunrise.scmbhc:id/gridview_main_bis"]/android.widget.LinearLayout[1], 返回元素-><appium.webdriver.webelement.WebElement (session="ff8dbd92-d829-4b77-b248-fc0b0bd41078", element="1")>
+[2021-02-02 11:28:54] [INFO]: 结束执行用例-><class 'test_index.TestOnkeyQuery'>.test_00011_index_check_onekeyquery
+[2021-02-02 11:28:54] [INFO]: ****************************************************************************************************
+[2021-02-02 11:28:54] [INFO]: 开始执行用例-><class 'test_index.TestOnkeyQuery'>.test_00012_onekeyquery_checkstar
+[2021-02-02 11:28:54] [INFO]: ****************************************************************************************************
+[2021-02-02 11:28:54] [INFO]: [32mINFO start to test test_index.test_onekeyquery_checkstar (12/68)[0m
+[2021-02-02 11:28:54] [INFO]: 开始执行find_element方法
+[2021-02-02 11:28:55] [INFO]: 成功定位元素,by->xpath, value=//*[@resource-id="com.sunrise.scmbhc:id/gridview_main_bis"]/android.widget.LinearLayout[1], 返回元素-><appium.webdriver.webelement.WebElement (session="ff8dbd92-d829-4b77-b248-fc0b0bd41078", element="2")>
+[2021-02-02 11:29:03] [INFO]: 开始执行_close_msg_alert方法
+[2021-02-02 11:29:03] [INFO]: 开始定位首页推荐弹出框元素,方式->by_id, 值->com.sunrise.scmbhc:id/pop_image_close
+[2021-02-02 11:29:11] [WARNING]: 未发现首页推荐弹出框元素,方法退出, 返回False
+[2021-02-02 11:29:11] [INFO]: 开始执行find_element方法
+[2021-02-02 11:29:22] [WARNING]: 定位元素失败,by->xpath, value=//*[@resource-id="starLevel"], 返回None
+[2021-02-02 11:29:22] [INFO]: 当前activity->.ui.activity.webview.WebViewAcitivty
+[2021-02-02 11:29:22] [INFO]: 结束执行用例-><class 'test_index.TestOnkeyQuery'>.test_00012_onekeyquery_checkstar
+[2021-02-02 11:29:23] [INFO]: ****************************************************************************************************
+[2021-02-02 11:29:23] [INFO]: 开始执行用例-><class 'test_index.TestOnkeyQuery'>.test_00013_onekeyquery_checkjifen
+[2021-02-02 11:29:23] [INFO]: ****************************************************************************************************
+[2021-02-02 11:29:23] [INFO]: [32mINFO start to test test_index.test_onekeyquery_checkjifen (13/68)[0m
+[2021-02-02 11:29:23] [INFO]: 开始执行find_element方法
+[2021-02-02 11:29:34] [WARNING]: 定位元素失败,by->xpath, value=//*[@resource-id="jifen"], 返回None
+[2021-02-02 11:29:34] [INFO]: 当前activity->.ui.activity.webview.WebViewAcitivty
+[2021-02-02 11:29:34] [INFO]: 结束执行用例-><class 'test_index.TestOnkeyQuery'>.test_00013_onekeyquery_checkjifen
+[2021-02-02 11:29:35] [INFO]: ****************************************************************************************************
+[2021-02-02 11:29:35] [INFO]: 开始执行用例-><class 'test_index.TestOnkeyQuery'>.test_00014_onkeyquery_check_dyye
+[2021-02-02 11:29:35] [INFO]: ****************************************************************************************************
+[2021-02-02 11:29:35] [INFO]: [32mINFO start to test test_index.test_onkeyquery_check_dyye (14/68)[0m
+[2021-02-02 11:29:35] [INFO]: 开始执行find_element方法
